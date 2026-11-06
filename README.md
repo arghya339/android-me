@@ -390,6 +390,14 @@ mkdir -p ~/.shortcuts && echo -e "#\!/usr/bin/bash\nbash am start -n com.android
 
 - [LSPatch](https://github.com/JingMatrix/LSPatch/releases/latest): A non-root Xposed framework extending from LSPosed.
 - [NPatch](https://github.com/7723mod/NPatch/releases/latest): Neo LSPatch Framework.
+- [TeleVip](https://github.com/mustafa1dev/TeleVip-Lsposed): Adds advanced customization features to Telegram clients.
+- [Reddidn't](https://github.com/Xposed-Modules-Repo/com.wizpizz.reddidnt/releases/latest): Reddit Ad Blocker.
+- [xVIPHook](https://github.com/NKR00711/xVIPHook): Unlock VIP for Truecaller, TeraBox, Duolingo, Thanox, AdvancedDownloadManager.
+- [Revenge](https://github.com/revenge-mod/revenge-xposed/releases/latest): Discord Mod.
+- [SilentRAR](https://github.com/fzer0x/SilentRAR/releases/latest): Block subscription dialog in RAR.
+- [FuckSolidExplorer](https://github.com/fzer0x/fucksolidexplorer/releases/latest): Unlock premium in Solid Explorer.
+- [LineXtra](https://github.com/Xposed-Modules-Repo/io.github.yagiyuu.linextra/releases/latest): Remove ads from LINE.
+- [SnapEnhance](https://github.com/Xposed-Modules-Repo/me.rhunk.snapenhance): Enhance your Snapchat Experience.
 
 ## Shizuku
 
@@ -449,10 +457,28 @@ mkdir -p ~/.shortcuts && echo -e "#\!/usr/bin/bash\nbash am start -n com.android
 - [CorePatch](https://github.com/LSPosed/CorePatch/releases/latest): Disable signature verification For Android.
 - [XposedSmsCode](https://github.com/tianma8023/XposedSmsCode/releases/latest): An Xposed Module which can recognize, parse verification code and copy it to clipboard when a new message arrives.
 - [Pixel Launcher Double Tap to Sleep](https://github.com/uragiristereo/Pixel_Launcher_Double_Tap_to_Sleep/releases/latest): An Xposed/LSPosed module to enable double tap to sleep functionality on Pixel Launcher.
+- [NoLockQS](https://github.com/2B-4G10/NoLockQS/releases/latest): Prevents access to the Quick Settings / Control Center tiles and the power menu on the lock screen of rooted Pixel phones.
 - [CallRecording](https://github.com/Xposed-Modules-Repo/io.github.vvb2060.callrecording/releases/latest): Disable call recording announcement for Google Dialer.
 - [Xposed-Disable-FLAG_SECURE](https://github.com/VarunS2002/Xposed-Disable-FLAG_SECURE/releases/latest): Xposed Module to Disable FLAG_SECURE (enabling screenshots, screen sharing and recording in apps that normally wouldn't allow it).
 - [Disable Target API Block](https://github.com/buttercookie42/DisableTargetAPIBlock/releases/latest): An Xposed module for disabling Android 14's installation block for old apps
 - [Pairipfix](https://github.com/ahmedmani/pairipfix/releases/latest): A simple LSPosed module to bypass signature checks for apks installed from outside google play.
 - [Pixelify-Google-Photos](https://github.com/BaltiApps/Pixelify-Google-Photos/releases/latest): LSPosed / EdXposed module to add Google Pixel features on Google Photos for any device.
+- [XposedPhotosFIX](https://github.com/RevealedSoulEven/XposedPhotosFIX/releases/latest): Force Google Photos to separate each folder like Snapchat, Screenshot, Facebook, and so on separated from the Camera folder.
 - [WaEnhancer](https://github.com/Dev4Mod/WaEnhancer/releases/latest): WhatsApp tools for Android.
 - [NexAlloy](https://github.com/NexAlloy/NexAlloy/releases): LSPosed module, powered by Morphe, ReVanced.
+- [Update Locker](https://github.com/Xposed-Modules-Repo/ru.mike.updatelocker/releases/latest): Stop update your apps.
+- [InstallerPlus](https://github.com/NextAlone/InstallerPlus/releases/latest): Show app's package info for Package Installer.
+- [NoStorageRestrict](https://github.com/Xposed-Modules-Repo/com.github.dan.nostoragerestrict/releases/latest): Removes the restriction when selecting folders (Sdcard, Download, data and obb) through the file manager on Android 11 and higher.
+- [GpsSetter](https://github.com/Android1500/GpsSetter/releases/latest): Set location where you want without effect mock location.
+- [IAmNotADeveloper](https://github.com/xfqwdsj/IAmNotADeveloper/releases/latest): Hide Android developer-related switches status.
+- [PhantomMic](https://github.com/Mino260806/PhantomMic/releases/latest): Simulate microphone input from an audio file.
+- [KeyboardGPT](https://github.com/Mino260806/KeyboardGPT/releases/latest): Integrate Generative AI like ChatGPT, Gemini in keyboard (Gboard, Swiftkey).
+- [MiCTS](https://github.com/parallelcc/MiCTS/releases/latest): Trigger Circle to Search on any Android 9–16 device.
+- [PlayStore Adblock](https://github.com/hxreborn/playstore-adblock/releases/latest): Removes ads, sponsored apps, and promoted recommendations from the Google Play Store.
+- [GmailHideAds](https://github.com/MrxSiN/GmailHideAds/releases/latest): Removes sponsored rows from the Google Gmail.
+- [AmznKiller](https://github.com/hxreborn/amznkiller/releases/latest): Hides ads and sponsored products in the Amazon Shopping app.
+- [FacebookAppAdsRemover](https://github.com/Loukious/FacebookAppAdsRemover/releases/latest): Remove Ads from Facebook App.
+- [ChatHeadEnabler](https://github.com/NeonOrbit/ChatHeadEnabler/releases/latest): Lets you choose between chat head and bubble in Facebook Messenger.
+- [RamStatusBar](https://github.com/GJR787878/RamStatusBar/releases/latest): Displays real-time RAM usage in the status bar clock area.
+- [FKIAB](https://github.com/Xposed-Modules-Repo/com.fuck.iab/releases/latest): F*ck InAppBilling.
+- [AllTrans](https://github.com/akhilkedia/AllTrans/releases/latest): Translate InAppText at runtime.
